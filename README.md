@@ -59,8 +59,7 @@
 </div>
 
 ----------
-## Cara Menggunakan
-
+# How To Use
 1. Dapatkan Token Bot Telegram dari @BotFather.
 2. Dapatkan API Key untuk layanan OpenAI dan Simi.
 3. Unduh atau salin kode bot Telegram ini.
