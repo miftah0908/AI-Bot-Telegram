@@ -26,3 +26,7 @@
 | :---: |
 | [Miftah GanzZ](https://github.com/miftahganzz) |
 | Developer |
+| [![Miftah GanzZ](https://github.com/miftahganzz.png?size=100)](https://github.com/miftahganzz) |
+| :---: |
+| [Miftah GanzZ](https://github.com/miftahganzz) |
+| Developer |
