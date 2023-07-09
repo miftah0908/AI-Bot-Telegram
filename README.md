@@ -21,7 +21,6 @@
 - [Qris All Pay](https://telegra.ph/file/be286c967baac1546bd95.jpg)
 ----------
 # Thanks to
- [![Miftah GanzZ](https://github.com/miftah0908.png?size=100)](https://github.com/miftahganzz) 
-|
+[![Miftah GanzZ](https://github.com/miftah0908.png?size=100)](https://github.com/miftahganzz) 
 [Miftah GanzZ](https://github.com/miftahganzz)
- | Developer |
+| Developer |
