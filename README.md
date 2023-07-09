@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/miftahganzz/AI-Bot-Telegram/qris.jpg" alt="BOT TELEGRAM" width="400"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0uzFzEpGE1pH5fwJSbPCVF5t_piVbNDIcc6fkIIrzD9s2G1iQZHJYvoKzBjNM0d-_YGU&usqp=CAU" alt="BOT TELEGRAM" width="400"/>
 
  <p align="center">
     <a href="https://miftahganzz.github.io">
@@ -14,7 +14,7 @@
 </p>
 <p align="center">
 <a href="#">
-<img title="AI-Bot-Telegram Whatsapp" src="https://img.shields.io/badge/AI-Bot-Telegram-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge">
+<img title="AI-Bot-Telegram" src="https://img.shields.io/badge/Bot-Telegram-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge">
 </a>
   </p>
 
@@ -82,12 +82,7 @@
 - [Qris All Pay](https://telegra.ph/file/be286c967baac1546bd95.jpg)
 ----------
 # Thanks to
-
-| [![Miftah GanzZ](https://github.com/miftahganzz.png?size=100)](https://github.com/miftahganzz) |
-| :---: |
-| [Miftah GanzZ](https://github.com/miftahganzz) |
-| Developer |
-| [![Miftah GanzZ](https://github.com/miftahganzz.png?size=100)](https://github.com/miftahganzz) |
-| :---: |
-| [Miftah GanzZ](https://github.com/miftahganzz) |
-| Developer |
+<a href="https://github.com/LoL-Human"><img src="https://github.com/LoL-Human.png?size=100" width="100" height="100"></a> | [![Miftah GanzZ](https://github.com/miftahganzz.png?size=100)](https://github.com/miftahganzz) 
+---|---
+[lolHuman](https://github.com/LoL-Human)  | [Miftah GanzZ](https://github.com/miftah09008)
+Constributor |  Developer |
