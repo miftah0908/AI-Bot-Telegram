@@ -22,6 +22,6 @@
 ----------
 # Thanks to
  [![Miftah GanzZ](https://github.com/miftah0908.png?size=100)](https://github.com/miftahganzz) 
----|---
+|
 [Miftah GanzZ](https://github.com/miftahganzz)
  | Developer |
