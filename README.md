@@ -12,3 +12,16 @@
    - `/simi` untuk menggunakan Simi.
    - `/openai` untuk menggunakan OpenAI.
    - `/stop` untuk menghentikan AI.
+
+----------
+## Donate
+- [Saweria](https://saweria.co/miftahganz)
+- [SociaBuzz](https://sociabuzz.com/miftahganz/tribe)
+- [Microsite](https://s.id/miftahbotz)
+- [Qris All Pay](https://telegra.ph/file/be286c967baac1546bd95.jpg)
+----------
+# Thanks to
+ [![Miftah GanzZ](https://github.com/miftah0908.png?size=100)](https://github.com/miftahganzz) 
+---|---
+[Miftah GanzZ](https://github.com/miftahganzz)
+ | Developer |
