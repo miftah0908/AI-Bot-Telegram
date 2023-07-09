@@ -52,7 +52,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/miftahganzz/AI-Bot-Telegram#caramenggunakan">How To Use</a> •
+  <a href="https://github.com/miftahganzz/AI-Bot-Telegram#howtouse">How To Use</a> •
   <a href="https://github.com/miftahganzz/AI-Bot-Telegram#thanks-to">Thanks to</a> •
   <a href="https://github.com/miftahganzz/AI-Bot-Telegram#donate">Donate</a>
 </p>
